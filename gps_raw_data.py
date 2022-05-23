@@ -1,4 +1,4 @@
-#RECEIVER
+# Receive Raw GPS Data
 import RPi.GPIO as GPIO
 import time
 import serial
