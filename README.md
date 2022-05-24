@@ -85,6 +85,8 @@ The hexadecimal value of the checksum is then converted to two ASCII characters.
 ### Terminating field
 The terminating sequence contains the two ASCII characters <CR> and <LF> without any delimiter.
 
-## Satellite Numbering
-– GPS: 1-32
-– GLONASS: 33-96
+### Satellite Numbering
+  
+ GPS: 1-32
+  
+ GLONASS: 33-96
