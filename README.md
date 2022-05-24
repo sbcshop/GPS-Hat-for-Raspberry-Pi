@@ -102,8 +102,8 @@ The terminating sequence contains the two ASCII characters <CR> and <LF> without
  
  **gps_lib.py**      - library of gps 
   
- **gps_raw_data.py** - 
+ **gps_raw_data.py** - Run this file to receive gps raw data
   
- **google_map.py**   - 
+ **google_map.py**   - Run this file to show your location on google map
   
- **main.py**         - 
+ **main.py**         - Run the file to know location, number of satellite, altitude , speed etc
