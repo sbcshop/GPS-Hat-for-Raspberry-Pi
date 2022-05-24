@@ -10,7 +10,7 @@
 
 <img src= "https://github.com/sbcshop/GPS-Hat-for-Raspberry-Pi/blob/main/images/img2.jpg" />
 
-**- UART Selection Jumper**
+**1.UART Selection Jumper**
 
 A - USB-L76X module ( use without raspberry pi via USB cable)
 
@@ -18,19 +18,26 @@ B - PI - L76X module ( use with raspberry pi )
 
 C - USB -PI ( access Raspberry Pi through USB TO UART)
 
-**- Standby Switch**
+**2.Standby Switch**
 
 The Standby switch is used to toggle between Standby and Working modes. The power consumption of the module in standby mode is quite low. It disables satellite navigation and search.
 
 
-**- Backup Mode ON Button ( Force ON Button)**
+**3.Backup Mode ON Button ( Force ON Button)**
 
 To exit Backup mode, press the FORCE ON button.
 
 
-**- Battery Holder**
+**4.Battery Holder**
 
 Power Backup
 
 
+**5.Indicators:**
+
+a) RXD/TXD: UART RX/TX indicator
+
+b) PPS: GPS status indicator
+
+c) PWR: power indicator
 
