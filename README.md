@@ -20,4 +20,6 @@ C - USB -PI
 
 **Standby Switch**
 
+The Standby switch is used to toggle between Standby and Working modes. The power consumption of the module in standby mode is quite low. It disables satellite navigation and search.
+
 
