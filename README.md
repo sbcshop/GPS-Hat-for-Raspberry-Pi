@@ -51,7 +51,7 @@ For eg-
 
 $GNGGA,185833.80,4808.7402397,N,01133.9325039,E,5,15,1.1,470.50,M,45.65,M,,*75
 
-Sentence structure
+### Sentence structure
 * Address field
 * Data fields
 * Checksum field
@@ -60,13 +60,13 @@ Sentence structure
 * The maximum length of a sentence is 82 characters
 * All fields are separated by delimiters
 
-Address field
+### Address field
 The address field starts with “$” followed by the talker ID and a sentence identifier. The used talker IDs are:
 * GP for GPS only solutions
 * GL for GLONASS only solutions
 * GN for multi GNSS solutions
 
-The used sentence identifiers are:
+### The used sentence identifiers are:
 * GGA – Global Positioning System Fix Data
 * VTG – Course over Ground and Ground Speed
 * GSA – GNSS DOP and Active Satellites
