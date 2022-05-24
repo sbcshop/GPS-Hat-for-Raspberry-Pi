@@ -44,7 +44,7 @@ c) PWR: power indicator of HAT
 
 ### **NMEA-Format**
 
-**This protocol is based on the international standard for maritime navigation and radio communication, equipment and systems and digital interfaces (IEC 61161-1) [1]. This standard adopted the de-facto standards for interfacing marine electronic devices, known as NMEA 0183.
+**This protocol is based on the international standard for maritime navigation and radio communication, equipment and systems and digital interfaces (IEC 61161-1). This standard adopted the de-facto standards for interfacing marine electronic devices, known as NMEA 0183.
 The data is transmitted in sentences of variable length with a specified sentence structure.**
 
 
