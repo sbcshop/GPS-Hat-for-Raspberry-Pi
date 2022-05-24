@@ -51,6 +51,14 @@ For eg-
 
 $GNGGA,185833.80,4808.7402397,N,01133.9325039,E,5,15,1.1,470.50,M,45.65,M,,*75
 
+Sentence structure
+* Address field
+* Data fields
+* Checksum field
+* Terminating field
+* All sentences contain only ASCII characters
+* The maximum length of a sentence is 82 characters
+* All fields are separated by delimiters
 
 
 
