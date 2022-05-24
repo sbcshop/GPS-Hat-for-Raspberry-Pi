@@ -17,3 +17,7 @@ A - USB-L76X module ( use without raspberry pi via USB cable)
 B - PI - L76X module ( use with raspberry pi )
 
 C - USB -PI
+
+**Standby Switch**
+
+
