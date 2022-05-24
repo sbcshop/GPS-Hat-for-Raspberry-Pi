@@ -12,9 +12,9 @@
 
 **1.UART Selection Jumper**
 
-A - USB-L76X module ( use without raspberry pi via USB cable)
+A - USB-L76X module ( Using USB TO UART, control the L76X)
 
-B - PI - L76X module ( use with raspberry pi )
+B - PI - L76X module (control the L76X through Raspberry Pi)
 
 C - USB -PI ( access Raspberry Pi through USB TO UART)
 
