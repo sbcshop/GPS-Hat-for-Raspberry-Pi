@@ -13,7 +13,5 @@
 **UART Selection Jumper**
 
 A - USB-L76X module
-
 B - PI - L76X
-
 C - USB -PI
