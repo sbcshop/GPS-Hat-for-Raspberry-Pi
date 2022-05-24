@@ -39,5 +39,5 @@ a) RXD/TXD: UART RX/TX indicator
 
 b) PPS: GPS status indicator
 
-c) PWR: power indicator
+c) PWR: power indicator of HAT
 
