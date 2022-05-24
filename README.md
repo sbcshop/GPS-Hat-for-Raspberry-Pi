@@ -8,4 +8,4 @@
 
 ## Components
 
-<img src= "https://github.com/sbcshop/GPS-Hat-for-Raspberry-Pi/blob/main/images/img2.jpg" />
+<img src= "https://github.com/sbcshop/GPS-Hat-for-Raspberry-Pi/blob/main/images/img2.JPG" />
