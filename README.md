@@ -41,3 +41,5 @@ b) PPS: GPS status indicator
 
 c) PWR: power indicator of HAT
 
+
+
