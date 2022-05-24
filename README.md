@@ -60,5 +60,16 @@ Sentence structure
 * The maximum length of a sentence is 82 characters
 * All fields are separated by delimiters
 
+Address field
+The address field starts with “$” followed by the talker ID and a sentence identifier. The used talker IDs are:
+* GP for GPS only solutions
+* GL for GLONASS only solutions
+* GN for multi GNSS solutions
 
+The used sentence identifiers are:
+* GGA – Global Positioning System Fix Data
+* VTG – Course over Ground and Ground Speed
+* GSA – GNSS DOP and Active Satellites
+* GSV – GNSS Satellites in View
+* RMC – Recommended Minimum Specific GNSS Data
 
