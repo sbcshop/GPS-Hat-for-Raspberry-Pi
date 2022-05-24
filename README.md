@@ -74,17 +74,17 @@ The used sentence identifiers are:
 * RMC – Recommended Minimum Specific GNSS Data
 
 
-Data fields
+### Data fields
 Data fields must always be separated by “,”. They can contain alpha, numeric and alphanumeric values all coded in ASCII characters. The length of a data field can be constant, variable or can contain a fixed and variable portion. This differs for each sentence.
 
-Checksum field
+### Checksum field
 The Checksum field starts with “*” followed by the checksum of the sentence.
 The Checksum is generated with a bitwise exclusive OR of all fields including the “,” delimiters, between but not including the “$” and the “*” characters.
 The hexadecimal value of the checksum is then converted to two ASCII characters.
 
-Terminating field
+### Terminating field
 The terminating sequence contains the two ASCII characters <CR> and <LF> without any delimiter.
 
-Satellite Numbering
+## Satellite Numbering
 – GPS: 1-32
 – GLONASS: 33-96
