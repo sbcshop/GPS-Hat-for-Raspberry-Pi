@@ -9,3 +9,8 @@
 ## Components
 
 <img src= "https://github.com/sbcshop/GPS-Hat-for-Raspberry-Pi/blob/main/images/img2.jpg" />
+
+**UART Selection Jumper**
+A - USB-L76X module
+B - PI - L76X
+C - USB -PI
