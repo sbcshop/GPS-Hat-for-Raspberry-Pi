@@ -6,6 +6,8 @@
 
 <img src= "https://github.com/sbcshop/GPS-Hat-for-Raspberry-Pi/blob/main/images/img1.JPG" />
 
+## Before code run, check PPS led is blinking or not, it takes time approx 10 to 30 sec,and place anteena outside the house for betten connection
+
 ## Components
 
 <img src= "https://github.com/sbcshop/GPS-Hat-for-Raspberry-Pi/blob/main/images/img2.jpg" />
@@ -37,7 +39,7 @@ Power Backup
 
 a) RXD/TXD: UART RX/TX indicator
 
-b) PPS: GPS status indicator
+b) PPS: GPS status indicator (if your PPS light is blinking it means your module is receiving GPS signal)
 
 c) PWR: power indicator of HAT
 
