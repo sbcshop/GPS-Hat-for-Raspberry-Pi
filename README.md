@@ -6,7 +6,7 @@
 
 <img src= "https://github.com/sbcshop/GPS-Hat-for-Raspberry-Pi/blob/main/images/img1.JPG" />
 
-## Before code run, check PPS led is blinking or not, it takes time approx 10 to 30 sec,and place anteena outside the house for betten connection
+## Before code run, check PPS led is blinking or not, it takes time approx 10 to 20 sec,and place anteena outside the house for better connection
 
 ## Components
 
