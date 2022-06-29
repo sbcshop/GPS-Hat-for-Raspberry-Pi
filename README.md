@@ -30,7 +30,7 @@ The Standby switch is used to toggle between Standby and Working modes. The powe
 To exit Backup mode, press the FORCE ON button.
 
 
-### **4.Battery Holder** -Power Backup**
+### **4.Battery Holder**
 For maintaining ephemeris data and hot starts, there is an onboard battery holder that supports the ML1220 battery.
 
 
