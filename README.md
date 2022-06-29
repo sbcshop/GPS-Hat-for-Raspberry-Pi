@@ -7,6 +7,13 @@
 <img src= "https://github.com/sbcshop/GPS-Hat-for-Raspberry-Pi/blob/main/images/img1.JPG" />
 
 ## Before code run, check PPS led is blinking or not, it takes time approx 10 to 20 sec,and place anteena outside the house for better connection
+## Device Features
+ * Supports Multi-GNSS systems: GPS, BDS, and QZSS
+ * UART communication baudrate: 4800~115200bps and 9600bps is default
+ * Four Led's for indicating the module working status
+ * UART selection jumper wire(A,B and C)
+ * Onboard battery holder
+ 
 
 ## Components
 
