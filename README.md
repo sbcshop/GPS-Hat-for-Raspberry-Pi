@@ -123,3 +123,6 @@ The terminating sequence contains the two ASCII characters <CR> and <LF> without
  **google_map.py**   - Run this file to show your location on google map
   
  **main.py**         - Run the file to know location, number of satellite, altitude , speed etc
+ 
+ ## GPS HAT Getting Started Video
+ https://www.youtube.com/watch?v=h0ZOMqL_U-c&ab_channel=SBComponentsLtd
